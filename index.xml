@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ezhil</title>
+    <link>https://byxjxj.github.io/</link>
+    <description>Recent content on Ezhil</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Copyright notice</copyright>
+    <lastBuildDate>Wed, 20 May 2020 23:27:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://byxjxj.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First</title>
+      <link>https://byxjxj.github.io/post/first/</link>
+      <pubDate>Wed, 20 May 2020 23:27:00 +0800</pubDate>
+      
+      <guid>https://byxjxj.github.io/post/first/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First</title>
+      <link>https://byxjxj.github.io/posts/first/</link>
+      <pubDate>Wed, 20 May 2020 23:27:00 +0800</pubDate>
+      
+      <guid>https://byxjxj.github.io/posts/first/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://byxjxj.github.io/about/</link>
+      <pubDate>Wed, 20 May 2020 23:03:37 +0800</pubDate>
+      
+      <guid>https://byxjxj.github.io/about/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
